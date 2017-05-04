@@ -1,0 +1,22 @@
+body{
+background-color: lightblue;
+
+}
+
+.loginLabel {
+    // background-color: yellow;
+    margin-left: 35%;
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+
+
+.loginInput {
+    background-color: yellow;
+    margin-left: 20px;
+}
+
+.submitButton {
+   margin-left: 50%;
+}
