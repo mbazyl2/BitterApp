@@ -19,7 +19,10 @@
             <br><br>
             <input class="submitButton" type="submit" value="Log In :-) !">
         </form>
-
+    </div>
+    <br>
+    <div align="center">
+        New to BitterApp ? Register Your free account <a href="./pages/RegisterForm.php"><button>here</button></a>
     </div>
 </body>
 </html>

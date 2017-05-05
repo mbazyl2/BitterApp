@@ -4,7 +4,7 @@ background-color: lightblue;
 }
 
 .loginLabel {
-    // background-color: yellow;
+    // background-color: lemonchiffon;
     margin-left: 35%;
     display: inline-block;
     width: 200px;
@@ -13,10 +13,24 @@ background-color: lightblue;
 
 
 .loginInput {
-    background-color: yellow;
+    background-color: lemonchiffon;
     margin-left: 20px;
 }
 
 .submitButton {
    margin-left: 50%;
+}
+
+.registerLabel {
+// background-color: lemonchiffon;
+    margin-left: 35%;
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+
+
+.registerInput {
+    background-color: lemonchiffon;
+    margin-left: 20px;
 }
